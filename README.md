@@ -1,2 +1,3 @@
 # Temporary
-for CS3398 class 
+for CS3398 class
+#### _I'm adding some text and then committing and then pushing to the remote repository.  And then see what the Desktop does._
